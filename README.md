@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Mohammad
+#### I am a Back-End developer
+- 🎓 Bachelor's student in computer engineering at the Isfahan University of Technology.
 
-<!--
-**mohammadkazemy/mohammadkazemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON / DJANGO / JS / HTML / CSS / C / C++ / QT
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Django 
+- 📫 How to reach me: kazemyy.mohammad@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammadkazemy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-kazemi-942099284/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammad_kazemyy/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadkazemy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadkazemy&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadkazemy)  
+
+![Profile views](https://gpvc.arturio.dev/mohammadkazemy)  
