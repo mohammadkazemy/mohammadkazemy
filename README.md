@@ -2,7 +2,7 @@
 #### I am a Back-End developer
 - 🎓 Bachelor's student in computer engineering at the Isfahan University of Technology.
 
-Skills: PYTHON / DJANGO / JS / HTML / CSS / C / C++ / QT
+Skills: C / C++ / QT
 
 - 🌱 I’m currently learning Django 
 - 📫 How to reach me: kazemyy.mohammad@gmail.com 
@@ -14,6 +14,3 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / C / C++ / QT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadkazemy&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadkazemy)  
-
-![Profile views](https://gpvc.arturio.dev/mohammadkazemy)  
